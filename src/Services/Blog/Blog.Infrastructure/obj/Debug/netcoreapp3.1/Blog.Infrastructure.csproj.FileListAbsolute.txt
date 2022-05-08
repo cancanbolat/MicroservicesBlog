@@ -1,0 +1,15 @@
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.csproj.AssemblyReference.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.AssemblyInfoInputs.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.AssemblyInfo.cs
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Infrastructure.deps.json
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Infrastructure.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Infrastructure.pdb
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Application.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Core.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\bin\Debug\netcoreapp3.1\Blog.Core.pdb
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.csproj.CopyComplete
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Infrastructure\obj\Debug\netcoreapp3.1\Blog.Infrastructure.pdb

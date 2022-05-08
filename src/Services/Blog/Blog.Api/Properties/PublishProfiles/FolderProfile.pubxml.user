@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\New folder</_PublishTargetUrl>
+    <History>True|2021-10-23T19:01:31.3147567Z;True|2021-10-23T21:39:15.9311577+03:00;True|2021-10-23T21:34:38.5558520+03:00;True|2021-10-23T21:23:43.9537097+03:00;True|2021-10-23T21:15:34.1460217+03:00;True|2021-10-22T23:27:12.7286120+03:00;</History>
+  </PropertyGroup>
+</Project>

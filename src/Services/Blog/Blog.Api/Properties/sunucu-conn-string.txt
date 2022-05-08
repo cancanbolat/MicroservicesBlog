@@ -1,0 +1,1 @@
+"SQLSERVER": "Data Source=.\\MSSQLSERVER2012; Integrated Security=False; Database=cancanbolat_admin; User ID=cancanbolat_admin; Password=partdere*1907**hosting; Connect Timeout=15;Encrypt=False;Packet Size=4096"

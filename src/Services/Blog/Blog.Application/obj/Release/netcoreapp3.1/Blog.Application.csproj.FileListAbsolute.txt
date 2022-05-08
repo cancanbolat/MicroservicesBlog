@@ -1,0 +1,13 @@
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\bin\Release\netcoreapp3.1\Blog.Application.deps.json
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\bin\Release\netcoreapp3.1\Blog.Application.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\bin\Release\netcoreapp3.1\Blog.Application.pdb
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\bin\Release\netcoreapp3.1\Blog.Core.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\bin\Release\netcoreapp3.1\Blog.Core.pdb
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.csproj.AssemblyReference.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.AssemblyInfoInputs.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.AssemblyInfo.cs
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.csproj.CopyComplete
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.dll
+E:\CAN\repos-D1\MicroservicesBlog\src\Services\Blog\Blog.Application\obj\Release\netcoreapp3.1\Blog.Application.pdb
